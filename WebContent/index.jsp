@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>Cadastro de Usuário]</title>
 </head>
 <body>
 
@@ -14,5 +14,6 @@
 		<input type="submit" value="LOGAR">
 	</form>
 
+	<a href="cadastroUsuario.jsp">Cadastre-se</a>
 </body>
 </html>
